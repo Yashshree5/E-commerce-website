@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+</head>
+<body>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="C:\Users\Vivek Rangdal\Pictures\kj.png" alt="Los Angeles" width="500" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="C:\Users\Vivek Rangdal\Pictures\kgb.jpg" alt="Chicago" width="500" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="C:\Users\Vivek Rangdal\Pictures\foodd.jpg" alt="New York" width="500" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+</body>
+</html>
+
+<style>
+.p1{
+font-family:"cursive",lucida handwriting;
+}
+
+</head>
+<body>
+<div id="myDIV"></div>
+
+</body>
+<body background="shoo.jpg" bgproperties="fixed">
+<style>
+h1 {
+  text-shadow: 2px 2px 5px red;
+}
+</style>
+<style>
+.button {
+  background-color: hsla(0, 100%, 50%, 0.3); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
+</style>
+</head>
+<body>s
+
+</body>
+</head>
+<body>
+<h1 class="p1" align=center>JENNERS SHOPSIE</h1>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall2.html"><button class="button">baby products</button></a></h2>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall3.html"><button class="button">skin care</button></a></h2>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall6.html"><button class="button">cosmetics</button></a></h2>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall1.html"><button class="button">cloths and accessories></a></h2>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall4.html"><button class="button">health products</button></a></h2>
+<h2 align=center><a href="file:///D:/Vivek%20Rangdal%20Files/Desktop/mall5.html"><button class="button">food</button></a></h2>
+</body>
+</html>
